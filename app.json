@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "loja3",
+    "slug": "loja3",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "6bcf77a4-2d9d-4c91-a32a-6df6c9e509db"
+      }
+    }
+  }
+}
